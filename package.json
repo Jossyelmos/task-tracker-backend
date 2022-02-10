@@ -1,0 +1,14 @@
+{
+  "name": "chow-classics",
+  "version": "1.0.0",
+  "description": "chow classics",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "Jossy Amos",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
